@@ -1,6 +1,6 @@
 import pandas as pd
 import requests 
-API_KEY=###############
+API_KEY="TU_API_KEY_AQUI"
 url="https://newsapi.org/v2/top-headlines"
 
 params={
